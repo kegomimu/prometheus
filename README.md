@@ -1,3 +1,3 @@
 # prometheus
 
-An encrypted, next-generation filesystem that aims to both protecting from cryptoanalysis and 5$ wrench attacks.
+An encrypted, next-generation filesystem that aims to protect from cryptoanalysis as well as 5$ wrench attacks.
