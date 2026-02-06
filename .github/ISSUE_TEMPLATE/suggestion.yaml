@@ -17,8 +17,8 @@ body:
   - type: dropdown
     id: suggestion-type
     attributes:
-      label: Affected code part
-      description: Which code part is the suggestion for?
+      label: Type
+      description: Affected parts of the project
       options:
         - Structures
         - Encryption
