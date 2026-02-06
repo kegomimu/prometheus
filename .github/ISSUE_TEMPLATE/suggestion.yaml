@@ -21,7 +21,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: type
+    id: suggestion-type
     attributes:
       label: Affected code part
       description: Which code part is the suggestion for?
