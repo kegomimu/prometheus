@@ -6,10 +6,6 @@ projects: ["kegomimu/1"]
 assignees:
   - kegomimu
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: content
     attributes:
