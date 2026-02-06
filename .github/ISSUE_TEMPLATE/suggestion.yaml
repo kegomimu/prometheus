@@ -11,7 +11,7 @@ body:
     attributes:
       label: Description
       description: Include as much details as possible
-      placeholder: One step ahead
+      placeholder: Your suggestion
     validations:
       required: true
   - type: dropdown
