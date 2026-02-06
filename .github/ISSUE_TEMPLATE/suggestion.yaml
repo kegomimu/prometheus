@@ -12,7 +12,7 @@ body:
       label: Your suggestion or implementation suggestion
       description: Include as much details as possible
       placeholder: One step ahead
-      value: "Details"
+      value: "Tell us more about your suggestion"
     validations:
       required: true
   - type: dropdown
