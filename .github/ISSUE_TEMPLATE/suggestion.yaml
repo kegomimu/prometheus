@@ -1,6 +1,5 @@
 name: Suggestion
 description: Suggest a new feature or the possible implementation of an already suggested feature
-title: ""
 labels: ["suggestion"]
 projects: ["kegomimu/1"]
 body:
