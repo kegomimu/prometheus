@@ -8,8 +8,8 @@ Currently not licensed GPLv2 as it should not be released yet.
 
 - [Assets](#Assets)
 - [Adversaries](#Adversaries)
-- [Capatibilities](#Capatibilities)
-- [Security Goals](#Security Goals)
+- [Capabilities](#Capabilities)
+- [Security Goals](#SecurityGoals)
 
 ### Assets
 
