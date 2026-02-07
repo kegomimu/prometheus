@@ -4,6 +4,19 @@ An encrypted, next-generation filesystem that aims to protect from cryptoanalysi
 
 Currently not licensed GPLv2 as it should not be released yet.
 
+## ETA
+
+Final release is planned around 2029.
+
+ETA's given below are subject to change at any time and do not need to be correct.
+
+### Roadmap
+- Brainstorming (01.06.2026)
+    - Language selection
+- Development
+    - Library Integration
+    - Bug fixes and patches
+
 ## Threat Model
 
 - [Assets](#Assets)
