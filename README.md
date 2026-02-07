@@ -9,7 +9,7 @@ Currently not licensed GPLv2 as it should not be released yet.
 Final release is planned around 2029.
 
 ### Roadmap (estimated completion)
-- [ ] Brainstorming (01.06.2026)
+- [ ] Brainstorming (`01.06.2026`)
     - [ ] Language selection
 - [ ] Development
     - [ ] Library Integration
