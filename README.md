@@ -6,6 +6,8 @@ Currently not licensed GPLv2 as it should not be released yet.
 
 ## Threat Model
 
+- [Assets](#Assets)
+
 ### Assets
 
 - Primary data: sensitive files, cryptocurrency wallets, private keys stored on the device.
