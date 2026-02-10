@@ -10,14 +10,11 @@ The final release is estimated to be released 2029.
 
 ### Roadmap
 
-| Description | ETA or RT | Completed |
+| Description | ETA / time of completion | Completed |
 | --- | --- | --- |
 | Brainstorming | 01.06.2026 | ❌ |
-- Brainstorming (ETA `01.06.2026`)
-    - Language selection
-- [ ] Development
-    - [ ] Library Integration
-    - [ ] Bug fixes and patches
+| Language Selection | - | ❌ |
+| Development | - | ❌ |
 
 ## Threat Model
 
