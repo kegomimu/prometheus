@@ -24,6 +24,7 @@ This section helps organizing all issues relevant for development.
 | --- | --- | --- |
 | File Header | [#10](https://github.com/kegomimu/prometheus/issues/10) | Stores file properties and chunk addresses |
 | Directory Header | [#14](https://github.com/kegomimu/prometheus/issues/14) | Includes the corresponding files |
+| Keyslot Structure | [#17](https://github.com/kegomimu/prometheus/issues/17) | Encryption secrets for both the shared folder and private files |
 | User Header | [#16](https://github.com/kegomimu/prometheus/issues/16) | Allows exchange of files between multiple users while preserving security for the private keys |
 
 ## Threat Model
