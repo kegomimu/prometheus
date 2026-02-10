@@ -10,8 +10,11 @@ The final release is estimated to be released 2029.
 
 ### Roadmap
 
-- [ ] Brainstorming (ETA `01.06.2026`)
-    - [ ] Language selection
+| Description | ETA or RT | Completed |
+| --- | --- | --- |
+| Brainstorming | 01.06.2026 | [ ] |
+- Brainstorming (ETA `01.06.2026`)
+    - Language selection
 - [ ] Development
     - [ ] Library Integration
     - [ ] Bug fixes and patches
