@@ -24,6 +24,7 @@ This section helps organizing all issues relevant for development.
 | --- | --- |
 | File Header | - |
 | Directory Header | [#14](https://github.com/kegomimu/prometheus/issues/14) |
+| User Header | [#16](https://github.com/kegomimu/prometheus/issues/16) |
 
 ## Threat Model
 
