@@ -10,7 +10,7 @@ The final release is estimated to be released 2029.
 
 ### Roadmap
 
-| Description | ETA or time of completion | Completed |
+| Description | ETA or date of completion | Completed |
 | --- | --- | --- |
 | Brainstorming | 01.06.2026 | ❌ |
 | Language Selection | - | ❌ |
