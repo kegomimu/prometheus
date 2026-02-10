@@ -22,7 +22,7 @@ This section helps organizing all issues relevant for development.
 
 | Structure | Issue |
 | --- | --- |
-| Directory Header | #14 |
+| Directory Header | [#14](#14) |
 
 ## Threat Model
 
