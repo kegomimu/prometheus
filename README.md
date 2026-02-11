@@ -9,7 +9,7 @@ Not licensed AGPLv3 yet as the project is still ongoing. Once the project reache
 - Features and Comparison
 - Roadmap and ETA
   - Roadmap
-- Structures
+- [Structures](#Structures)
 - [Footnotes](#Footnotes)
 
 ## Features and Comparison
