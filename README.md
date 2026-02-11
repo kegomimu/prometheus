@@ -20,6 +20,8 @@ _Veracrypt is not a filesystem_
 
 [^1]: Based on INVISILINE
 
+### Security Goals
+
 ## Roadmap and ETA
 
 A working build integrating all features initially planned is estimated to be released 2029.
