@@ -2,7 +2,7 @@
 
 An encrypted, next-generation filesystem that aims to protect from cryptoanalysis as well as 5$ wrench attacks.
 
-Not licensed GPLv2 yet as the project is still ongoing. Once the project reaches a stable base, we'll change the license.
+Not licensed AGPLv3 yet as the project is still ongoing. Once the project reaches a stable base, we'll change the license.
 
 ## Features and Comparison
 
