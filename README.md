@@ -15,7 +15,8 @@ _Veracrypt is not a filesystem_
 - Cascade encryption
 - Lightweight kernel module (few hundred lines) for increased performance
 - Supports multiple volumes as well as decoy volumes
-- Support for multiple users with a shared folder and proper ACL implementation
+- Supports multiple users with a shared folder
+- Proper ACL implementation
 
 [^1]: Based on INVISILINE
 
