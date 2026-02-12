@@ -31,6 +31,8 @@ _First off: Veracrypt is not a filesystem_
 
 The research papers below are used to maximize security in this next-generation filesystem.
 
+_Retrieved February 11 2026_
+
 - [Extension Framework for File Systems in User space](https://www.usenix.org/system/files/atc19-bijlani.pdf)
 - [The missing guide to the security of filesystems and file APIs](https://gergelykalman.com/slides/the_missing_guide_to_filesystem_security_v1.pdf)
 - [TOCTTOU Vulnerabilities in UNIX-Style File Systems: An Anatomical Study](https://www.usenix.org/legacy/events/fast05/tech/full_papers/wei/wei.pdf)
