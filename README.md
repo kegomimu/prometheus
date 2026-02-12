@@ -27,6 +27,12 @@ _First off: Veracrypt is not a filesystem_
 - Supports multiple users with a shared folder
 - Proper ACL implementation
 
+### Research papers
+
+The research papers below are used to maxmize security in this next-generation filesystem.
+
+- INVISILINE
+
 ## Roadmap and ETA
 
 A working build integrating all features initially planned is estimated to be released 2029.
