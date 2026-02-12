@@ -38,6 +38,7 @@ _Retrieved February 11 2026_
 - [TOCTTOU Vulnerabilities in UNIX-Style File Systems: An Anatomical Study](https://www.usenix.org/legacy/events/fast05/tech/full_papers/wei/wei.pdf)
 - [Modeling and Preventing TOCTTOU Vulnerabilities in Unix-Style File Systems](https://users.cis.fiu.edu/~weijp/Jinpeng_Homepage_files/toctou_journal_elsevier.pdf)
 - [File Hijacking Vulnerability: The Elephant in the Room](https://www.ndss-symposium.org/wp-content/uploads/2024-38-paper.pdf)
+- [Operation Systems: File Systems](https://course.ccs.neu.edu/cs3650f21/new/Lectures/12/lecture_16--File_systems.pdf)
 
 ## Roadmap and ETA
 
