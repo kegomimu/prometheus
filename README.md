@@ -41,6 +41,7 @@ _All papers were retrieved on the 11th February, 2026_
 - [Operation Systems: File Systems](https://course.ccs.neu.edu/cs3650f21/new/Lectures/12/lecture_16--File_systems.pdf)
 - [A Study of Linux File System Evolution](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf)
 - [Understanding Security Vulnerabilities in File Systems](https://jianh.web.engr.illinois.edu/papers/securefs-apsys19.pdf)
+- [File Systems as Processes](https://www.usenix.org/system/files/hotstorage19-paper-liu_0.pdf)
 
 ## Roadmap and ETA
 
