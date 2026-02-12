@@ -44,6 +44,7 @@ _All papers were retrieved on the 11th February, 2026_
 - [File Systems as Processes](https://www.usenix.org/system/files/hotstorage19-paper-liu_0.pdf)
 - [Plausibly deniable encryption with large language models](https://openreview.net/pdf?id=7suavRDxe8)
 - [Artifice: A Deniable Steganographic File System](https://www.usenix.org/system/files/foci19-paper_barker.pdf)
+- [INVISILINE: Invisible Plausibly-Deniable Storage](https://users.cs.fiu.edu/~carbunar/invisiline.pdf)
 
 ## Roadmap and ETA
 
