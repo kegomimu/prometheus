@@ -1,5 +1,7 @@
 # Prometheus
 
+[![Open Source Helpers](https://www.codetriage.com/kegomimu/prometheus/badges/users.svg)](https://www.codetriage.com/kegomimu/prometheus)
+
 An encrypted, next-generation filesystem that aims to protect from cryptoanalysis as well as 5$ wrench attacks.
 
 Not licensed AGPLv3 yet as the project is still ongoing. Once the project reaches a stable base, we'll change the license.
