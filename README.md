@@ -77,6 +77,7 @@ This section helps organizing all issues relevant for development.
 
 | Structure | Issue | Description |
 | --- | --- | --- |
+| Superblock | [#30](https://github.com/kegomimu/prometheus/issues/30) | Disk properties |
 | File Header | [#10](https://github.com/kegomimu/prometheus/issues/10) | Stores file properties and chunk addresses |
 | Directory Header | [#14](https://github.com/kegomimu/prometheus/issues/14) | Includes the corresponding files |
 | Keyslot | [#17](https://github.com/kegomimu/prometheus/issues/17) | Contains encryption secrets |
