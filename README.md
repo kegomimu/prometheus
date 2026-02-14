@@ -1,6 +1,8 @@
 # Prometheus
 
+[![GitHub stars](https://img.shields.io/github/stars/kegomimu/prometheus.svg?style=social&label=Star%20repository&maxAge=2592000)](https://github.com/kegomimu/prometheus)
 [![Open Source Helpers](https://www.codetriage.com/kegomimu/prometheus/badges/users.svg)](https://www.codetriage.com/kegomimu/prometheus)
+[![Part of the oSoWoSo](https://img.shields.io/badge/Part%20of%20the%20oSoWoSo-1abc9c.svg)](https://github.com/oSoWoSo/prometheus)
 
 An encrypted, next-generation filesystem that aims to protect from cryptoanalysis as well as 5$ wrench attacks.
 
