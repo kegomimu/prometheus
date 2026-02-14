@@ -31,7 +31,7 @@ _First off: Veracrypt is not a filesystem_
 
 ### Research papers
 
-We try to maximize security as much as possible.
+These papers are actively being used to maximize security.
 
 _All papers were retrieved on the 12th February, 2026_
 
