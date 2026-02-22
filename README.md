@@ -6,12 +6,11 @@
 
 An encrypted, next-generation filesystem that aims to protect from cryptoanalysis as well as 5$ wrench attacks.
 
-Not licensed yet as the project is still ongoing. Once the project reaches a stable base, we'll change the license.
-
 **Overview**
 
 - Features
   - Research papers
+  - Whitepaper
 - Roadmap and ETA
   - Roadmap
 - Structures
@@ -61,6 +60,10 @@ _All papers were retrieved on the 12th February, 2026_
 - [Persistence: File Systems and RAID](https://tddg.github.io/cs571-spring21/public/lecs/lec10-persis-fs-raid+note.pdf)
 - [I know What You Sync: Covert and Side Channel Attacks on File Systems via syncfs](https://arxiv.org/pdf/2411.10883v1)
 
+### Whitepaper
+
+Under construction 👍🏻
+
 ## Roadmap and ETA
 
 A working build integrating all features initially planned is estimated to be released 2029.
@@ -69,8 +72,9 @@ A working build integrating all features initially planned is estimated to be re
 
 | Description | ETA or date of completion | Completed |
 | --- | --- | --- |
-| Brainstorming | 01.07.2026 | ❌ |
-| Language Selection | 07.07.2026 | ❌ |
+| Brainstorming | 01.06.2026 | ❌ |
+| Language Selection | 07.06.2026 | ❌ |
+| Basic Filesystem Development | 01.07.2026 |
 | Development | - | ❌ |
 
 ## Structures
