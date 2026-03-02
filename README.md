@@ -17,7 +17,7 @@ An encrypted, next-generation filesystem that aims to protect from cryptoanalysi
 
 ## Features
 
-_First off: Veracrypt is not a filesystem_
+_First off: Veracrypt as well as LUKS are not filesystems_
 
 **Prometheus is unlike other filesystems based on publicy available research documents and tries to implement the measurements suggested in those.**
 
