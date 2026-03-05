@@ -1,6 +1,6 @@
 # Prometheus
 
-[![GitHub stars](https://img.shields.io/github/stars/kegomimu/prometheus.svg?style=social&label=Star%20repository&maxAge=2592000)](https://github.com/kegomimu/prometheus)
+[![GitHub stars](https://img.shields.io/github/stars/kegomimu/prometheus.svg?style=social&label=Star%20repository)](https://github.com/kegomimu/prometheus)
 [![Open Source Helpers](https://www.codetriage.com/kegomimu/prometheus/badges/users.svg)](https://www.codetriage.com/kegomimu/prometheus)
 [![Featured by oSoWoSo](https://img.shields.io/badge/Featured%20by%20oSoWoSo-1abc9c.svg)](https://github.com/oSoWoSo/prometheus)
 
