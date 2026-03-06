@@ -61,7 +61,7 @@ _All papers were retrieved on the 12th February, 2026_
 
 ### Whitepaper
 
-Under construction 👍🏻
+See roadmap (Coming soon)
 
 ## Roadmap and ETA
 
@@ -72,10 +72,11 @@ A working build integrating all features initially planned is estimated to be re
 | Description | ETA or date of completion | Completed |
 | --- | --- | --- |
 | Brainstorming | 01.06.2026 | ❌ |
+| Whitepaper Release | 31.04.2026 |
 | Language Selection | 07.06.2026 | ❌ |
 | Basic Filesystem Development | 01.07.2026 |
 | Development | - | ❌ |
 
 ## Footnotes
 
-[^1]: Based on INVISILINE
+None yet
