@@ -7,7 +7,7 @@
 An encrypted, next-generation filesystem that aims to protect from cryptoanalysis as well as 5$ wrench attacks.
 
 > [!NOTE]
-> This project isn't inactive, there's work going on in the background. The whitepaper is being written and a simple filesystem will be released within the next few months.
+> This project isn't inactive, there's work going on in the background. The whitepaper is being written and a simple filesystem will be released within the next few weeks.
 
 **Overview**
 
