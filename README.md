@@ -31,6 +31,8 @@ _First off: Veracrypt as well as LUKS are not filesystems_
 - Supports multiple volumes as well as decoy volumes
 - Shared storage between multiple volumes with a zero-knowledge model
 - Proper ACL implementation
+- Advanced tampering detection
+- Data is encrypted at least two times
 
 ### Research papers
 
