@@ -25,11 +25,11 @@ _First off: Veracrypt as well as LUKS are not filesystems_
 **Prometheus is unlike other filesystems based on publicy available research documents and tries to implement the measurements suggested in those.**
 
 - Post-quantum secure encryption
-- Invisible plausible deniability[^1]
+- Invisible plausible deniability
 - Cascade encryption
 - Lightweight kernel module (few hundred lines) for increased performance
 - Supports multiple volumes as well as decoy volumes
-- Supports multiple users with a shared folder
+- Shared storage between multiple volumes with a zero-knowledge model
 - Proper ACL implementation
 
 ### Research papers
