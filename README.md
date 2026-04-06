@@ -9,6 +9,8 @@ An encrypted, next-generation filesystem that aims to protect from cryptoanalysi
 > [!NOTE]
 > This project isn't inactive, there's work going on in the background. The whitepaper is being written and a simple filesystem will be released within the next few weeks.
 
+Status update (Latest changes done at): 06.04.2026
+
 **Overview**
 
 - Features
